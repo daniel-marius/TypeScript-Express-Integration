@@ -1,5 +1,6 @@
-## Express + TypeScript Integration
+## Express + TypeScript Advanced Integration
 
 ## Features
 
-- Adding type annotations where possible to integrate express and typescript 
+- Twist Express libraries to work with TypeScript classes
+- Adding decorators using [reflect-metadata](https://www.npmjs.com/package/reflect-metadata)
